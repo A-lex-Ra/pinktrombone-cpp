@@ -3,9 +3,9 @@
 #include <thread>
 #include <vector>
 #include <random>
-#include <AL/al.h>
-#include <AL/alc.h>
 #include <chrono>
+#include "AL/al.h"
+#include "AL/alc.h"
 #include "simplex_noise.h"
 
 class Glottis {
